@@ -4,4 +4,9 @@ hello git! 33333
 hello git! 44444
 hello git! master test
 hello git!
+<<<<<<< HEAD
 hello git! hot-fix test xxx
+=======
+hello git!
+hello git! hot-fix test 2
+>>>>>>> hot-fix
